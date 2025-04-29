@@ -1,0 +1,7 @@
+# 깃이 건드리지 않는 파일을 설정하는 곳입니다.
+*.log
+*.tmp
+node_modules
+.env
+build
+application*.yml
